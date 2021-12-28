@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/layout/list_item.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/layout/m0600.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/layout/m0601.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/layout/m0602.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/layout/spinner0600_iteam.xml" value="0.22314814814814815" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/menu/back0600.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0600_Delicacy/src/main/res/menu/menu0600.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0704imgview/src/main/res/layout/list_item.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/m0600-master/0704imgview/src/main/res/layout/m0704.xml" value="0.17263513513513515" />
+        <entry key="..\:/android-work/sgft-12/0600_Delicacy/src/main/res/layout/m0600.xml" value="0.21944444444444444" />
+        <entry key="..\:/android-work/sgft-12/0600_Delicacy/src/main/res/layout/m0601.xml" value="0.26614583333333336" />
+        <entry key="..\:/android-work/sgft-12/0600_Delicacy/src/main/res/layout/m0602.xml" value="0.26614583333333336" />
+        <entry key="..\:/android-work/sgft-12/0600_Delicacy/src/main/res/layout/spinner0600_iteam.xml" value="0.26614583333333336" />
+        <entry key="..\:/android-work/sgft-12/0600_Delicacy/src/main/res/menu/menu0600.xml" value="0.11666666666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/collectlist_item.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/list_item.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0600.xml" value="0.2708333333333333" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0600_map.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0600collect.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0601.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0602.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/m0704.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/spinner0600_iteam.xml" value="0.140625" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/layout/spinner_item.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/menu/back0600.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0600_Delicacy/src/main/res/menu/menu0600.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0704imgview/src/main/res/layout/list_item.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/sgft12-master/0704imgview/src/main/res/layout/m0704.xml" value="0.2869791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
